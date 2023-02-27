@@ -156,4 +156,6 @@ enum FeatureFlag {
   /// Flag indicating if the welcome page should be enabled.
   /// Default: disabled (false).
   isWelcomePageEnabled,
+  
+  isPrejoinPageEnabled,
 }
